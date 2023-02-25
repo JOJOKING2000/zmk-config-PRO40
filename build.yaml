@@ -14,4 +14,4 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: PRO40
+    shield: pro40
