@@ -1,6 +1,6 @@
 if SHIELD_PRO40
 
 config ZMK_KEYBOARD_NAME
-    default "Pro40"
+    default "pro40"
 
 endif
