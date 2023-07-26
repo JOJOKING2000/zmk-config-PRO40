@@ -32,7 +32,7 @@
 &kp GRAVE    &kp N1     &kp N2     &kp N3     &kp N4    &kp N5      &kp N6    &kp N7        &kp N8      &kp N9     &kp N0     &kp BSPC 
 &none        &trans     &trans     &trans     &trans    &trans      &trans    &none         &kp SEMI    &kp SQT               &trans    
 &trans       &trans     &trans     &trans     &trans    &kp COMMA   &kp DOT   &kp SLASH     &kp RSHFT   &kp MINUS  &kp EQUAL          
-&none        &none      &none     &trans                           &trans     &trans         &kp LBKT    &kp RBKT   &kp NUBS
+&trans       &trans     &trans    &trans                            &trans    &trans        &kp LBKT    &kp RBKT   &kp NUBS
 			>;
 		};
 
